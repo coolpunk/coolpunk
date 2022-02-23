@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kiratsu
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python, Go
+- 📫 How to reach me - somehow
+- 
