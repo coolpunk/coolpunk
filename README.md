@@ -1,6 +1,6 @@
 <h1> About me: </h1>
 
-- 👋 Hi, I’m @smokystorm
+- 👋 Hi, I’m @coolpunk
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python, Go
 - 📫 How to reach me - somehow
